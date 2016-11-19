@@ -1,0 +1,6 @@
+{
+    "Clusters": "3",
+	"Distance_Measure":"Euclidean",
+	"nstart" : "10",
+	"height" : "3"
+}
